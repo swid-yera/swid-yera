@@ -1,4 +1,4 @@
-# 𝙨𝙬𝙞𝙙-𝙮𝙚𝙧𝙖https://github.com/swid-yera/swid-yera/blob/main/README.md
+# 𝙨𝙬𝙞𝙙-𝙮𝙚𝙧𝙖
 
 <img align="right" width="350" height="500" style="object-fit: cover; border-radius: 12px;" src="https://media.tenor.com/Xx6vRn0t2-0AAAAd/oai-akane-kurokawa.gif">
 
