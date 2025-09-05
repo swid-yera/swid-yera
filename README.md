@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-  <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" width="600">
+  <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" width="450">
 </td>
 <td width="50%" align="right" valign="middle">
 
