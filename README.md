@@ -1,6 +1,6 @@
 # 𝙨𝙬𝙞𝙙-𝙮𝙚𝙧𝙖
 
-<div align="center">
+<div align="right">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -10,11 +10,18 @@
 
 <br/>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=swid-yera&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+</div>
+
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swid-yera&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=swid-yera&theme=tokyonight&hide_border=true" height="165">
+</div>
+
+<div align="right">
+  <img src="./463c9475-b19e-4561-93f3-9cfcb30236d5.png" width="300">
 </div>
