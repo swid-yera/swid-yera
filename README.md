@@ -1,27 +1,27 @@
-# 𝙨𝙬𝙞𝙙-𝙮𝙚𝙧𝙖
+# swid-yera
 
-<div align="right">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
-
-<br/>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=swid-yera&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<div align="center">
+  <img src="https://tenor.com/lCrGshfDFJW.gif" width="350">
 </div>
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swid-yera&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</div>
 
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=swid-yera&theme=tokyonight&hide_border=true" height="165">
-</div>
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kafka-%23F55D0E.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </p>
 
-<div align="right">
-  <img src="./463c9475-b19e-4561-93f3-9cfcb30236d5.png" width="300">
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=swid-yera&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swid-yera&layout=compact&theme=tokyonight&hide_border=true&card_width=450" width="450"/>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=swid-yera&theme=tokyonight&hide_border=true" width="450"/>
+
 </div>
