@@ -1,10 +1,11 @@
 # swid-yera
 
-<div align="center">
-  <img src="https://tenor.com/lCrGshfDFJW.gif" width="350">
-</div>
-
-<div align="right">
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" width="300">
+</td>
+<td width="50%" align="right">
 
   <!-- Badges -->
   <p>
@@ -24,4 +25,6 @@
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=swid-yera&theme=tokyonight&hide_border=true" width="450"/>
 
-</div>
+</td>
+</tr>
+</table>
