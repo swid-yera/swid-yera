@@ -2,10 +2,10 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" width="300">
+<td width="50%" align="center" valign="middle">
+  <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" width="600">
 </td>
-<td width="50%" align="right">
+<td width="50%" align="right" valign="middle">
 
   <!-- Badges -->
   <p>
