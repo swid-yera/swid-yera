@@ -8,13 +8,13 @@
   </td>
 
   <td width="50%" align="center" valign="top">
-    <p>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kafka-%23F55D0E.svg?style=flat-square&logo=apachekafka&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-    </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-%23F55D0E.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=swid-yera&show_icons=true&theme=shadow_blue&hide_border=true&border_radius=0" width="400"/>
     </p>
