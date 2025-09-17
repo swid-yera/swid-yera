@@ -21,9 +21,6 @@
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swid-yera&layout=compact&theme=shadow_blue&hide_border=true&card_width=400&border_radius=0" width="400"/>
     </p>
-    <p>
-      <img src="https://streak-stats.demolab.com?user=swid-yera&theme=shadow_blue&hide_border=true&border_radius=0" width="400"/>
-    </p>
   </td>
 </tr>
 </table>
