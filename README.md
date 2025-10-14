@@ -1,6 +1,6 @@
 #  swid-yera
 
-<img align="left" width="450" height="460" style="object-fit: cover; border-radius: 8px; margin-right: 25px; margin-bottom: 10px;" src="https://media1.tenor.com/m/PyRd_9AofrcAAAAC/tomioka-tomioka-giyu.gif">
+<img align="left" width="350" height="460" style="object-fit: cover; border-radius: 8px; margin-right: 25px; margin-bottom: 10px;" src="https://media1.tenor.com/m/PyRd_9AofrcAAAAC/tomioka-tomioka-giyu.gif">
 
 <div align="center">
 
